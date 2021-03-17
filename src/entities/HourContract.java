@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class HourContract {
 	
-	private Date date;
+	private Date date; //serve para instanciar o objeto date. 
 	private Double valuePerHour;
 	private Integer hours;
 	

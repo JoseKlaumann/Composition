@@ -14,6 +14,7 @@ public class Worker {
 	
 	private Department department; 
 	//composicao do tipo "tem-uma" - nesse caso ele vai junto no construtor
+	
 	private List<HourContract> contracts = new ArrayList<>(); 
 	// composicao do tipo "tem-varios"  - nesse caso a lista e iniciada vazia junto na instanciacao
 	
